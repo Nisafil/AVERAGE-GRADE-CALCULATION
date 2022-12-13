@@ -1,2 +1,3 @@
-      ***AVERAGE GRADE CALCULATİON***
-  --------------------------------------
+***AVERAGE GRADE CALCULATİON***
+---------------------------------
+www.patika.dev
