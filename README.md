@@ -1,3 +1,3 @@
 ***AVERAGE GRADE CALCULATİON***
 ---------------------------------
-www.patika.dev
+www.patika.dev with #kodluyoruz
